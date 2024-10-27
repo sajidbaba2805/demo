@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 dummy content
+=======
+cckdcd
+>>>>>>> 10c590e (file6)
